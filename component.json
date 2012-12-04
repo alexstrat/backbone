@@ -3,6 +3,6 @@
   "version"       : "0.9.2",
   "main"          : "backbone.js",
   "dependencies"  : {
-    "underscore"  : "git@github.com:alexstrat/underscore.git"
+    "underscore"  : "git@github.com:alexstrat/underscore.git#1.4.2-bower"
   }
 }
